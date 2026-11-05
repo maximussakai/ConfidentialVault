@@ -4,6 +4,8 @@ An onchain vault for private notes. You encrypt a secret in your browser, store 
 
 Built with [Arc Studio](https://studio.arc.io)
 
+**Live app:** https://arc-studio-e773b2678f8d4dc890b0ccc2.vercel.app
+
 ## What it does
 
 - Store secrets (a title and text, up to about 4 KB each) on Arc Testnet. Everything is encrypted before it leaves your browser.
