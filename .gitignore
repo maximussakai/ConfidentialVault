@@ -1,0 +1,25 @@
+# Dependencies and build output
+node_modules/
+dist/
+.vite/
+
+# Secrets and local config
+.env
+.env.*
+!.env.example
+.circle/
+recovery_file*
+
+# Foundry
+contracts/out/
+contracts/cache/
+cache/
+broadcast/
+
+# Studio runtime logs
+traces.jsonl
+console.jsonl
+
+# OS / editor
+.DS_Store
+*.log
